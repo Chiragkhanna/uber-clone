@@ -4,6 +4,8 @@ Welcome to the React Native Uber Clone built with Expo! This project is a simple
 
 ## Demo
 
+https://github.com/Chiragkhanna/uber-clone/assets/18328399/395a99e2-19c1-4796-a6a5-fc669ba3fa0c
+
 
 ## Prerequisites
 To get started with this project, you will need to have the following tools installed:
@@ -16,10 +18,9 @@ A code editor: A code editor such as Visual Studio Code, Atom, or Sublime Text i
 ## Getting Started
 To get started with this project, follow these steps:
 
-Clone the repository: Open your terminal or command prompt and run git clone  to clone the project repository to your local machine.
-Install dependencies: Navigate to the project directory by running cd  and then run npm install to install all the necessary dependencies for the project.
-Start the app: Run `expo start` in your terminal or command prompt to start the app in development mode. This will open up a QR code that you can scan using the Expo app on your mobile device to preview the app. Alternatively, you can also open up the app in a web browser by selecting “Web” from the list of available options in the Expo Developer Tools window that opens up in your browser after running expo start.
-Build and run the app: Once you have previewed the app using Expo, you can build and run it on a physical mobile device or emulator by following the instructions provided by Expo CLI.
+- Clone the repository: Open your terminal or command prompt and run `git clone ` to clone the project repository to your local machine.
+- Install dependencies: Navigate to the project directory by running cd  and then run `npm install` to install all the necessary dependencies for the project.
+- Start the app: Run `npx expo start` in your terminal or command prompt to start the app in development mode. This will open up a QR code that you can scan using the Expo app on your mobile device to preview the app. Alternatively, you can also open up the app in a web browser by selecting “Web” from the list of available options in the Expo Developer Tools window that opens up in your browser after running expo start.
 
 ## Technologies
 
@@ -45,6 +46,7 @@ Build and run the app: Once you have previewed the app using Expo, you can build
 - Show travel time
 
 ## Screenshots
-
-<img src="https://raw.githubusercontent.com/Chiragkhanna/uber-clone/assets/screenshots/Screenshot_2.png" alt="Screen to pick an origin" width="240px"/> <img src="https://raw.githubusercontent.com/Chiragkhanna/uber-clone/assets/screenshots/Screenshot_3.png" alt="Screen to pick a destination" width="240px"/> <img src="https://raw.githubusercontent.com/Chiragkhanna/uber-clone/assets/screenshots/Screenshot_4.png" alt="Screen to pick a ride" width="240px"/>
-<img src="https://raw.githubusercontent.com/Chiragkhanna/uber-clone/assets/screenshots/Screenshot_5.png" alt="Screen confirmed driver" width="240px"/>
+![Screen to pick an origin](/assets/screenshots/Screenshot_2.png)
+![Screen to pick a destination](/assets/screenshots/Screenshot_3.png)
+![Screen to pick a ride](/assets/screenshots/Screenshot_4.png)
+![Screen after confirmed drive](/assets/screenshots/Screenshot_5.png)
